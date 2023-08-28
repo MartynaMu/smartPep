@@ -1,0 +1,9 @@
+Package: smartPep
+Type: Package
+Title: Faster Peptidomic Analysis
+Version: 0.1.0
+Author: Martyna Muszczek
+Maintainer: Martyna Muszczek <mamuszcz@gmail.com>
+License: None
+Encoding: UTF-8
+LazyData: true
