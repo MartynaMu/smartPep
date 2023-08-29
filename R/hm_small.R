@@ -10,6 +10,6 @@ hm_small <- function(wide_df, genePattern, cols) {
           show_row_dend = FALSE,
           heatmap_legend_param = list(title = "Row z-score"),
           clustering_distance_columns = "pearson", clustering_method_columns = "ward",
-          clustering_distance_rows = "pearson",
+          clustering_distance_rows = "pearson"
     )
 }
