@@ -1,20 +1,18 @@
-\name{plot_length_distr}
-\alias{plot_length_distr}
+\name{pull_ids}
+\alias{pull_ids}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{Plot a peptide length distribution per sample.
-%%  ~~function to do ... ~~
-}
-\description{Plot a peptide length distribution per sample.
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
-}
+\title{Pull peptide sequences or genes identified per sample}
+\description{The function fetches a list of peptides or genes identified per sample.}
 \usage{
-plot_length_distr(long_df)
+pull_ids(long_df, sample_col, sequence_col, gene_col, save)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
-  \item{long_df}{A data.frame from long_format() function
-%%     ~~Describe \code{x} here~~
-}
+  \item{long_df}{A data.frame from long_format() function}
+  \item{sample_col}{A character string. Name of the column storing sample names}
+  \item{sequence_col}{A character string. Name of the column storing peptide sequences}
+  \item{gene_col}{A character string. Name of the column storing gene symbols}
+  \item{save}{A boolean. Whether to save each sample list in .txt file}
 }
 \details{
 %%  ~~ If necessary, more details than the description above ~~
