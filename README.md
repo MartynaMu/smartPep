@@ -1,10 +1,19 @@
-smartPep
-================
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMartynaMu%2FsmartPep&label=Visitors&countColor=%2337d67a)
-Martyna Muszczek
-01.09.2023
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# smartPep
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%253A%252F%252Fgithub.com%252FMartynaMu%252FsmartPep&label=Visitors&countColor=%252337d67a)
+
+Martyna Muszczek 01.09.2023
 
 ## Faster Peptidomic Data Processing and Analysis
+
+For guide on how to use the package, please visit
+[vignettes/vignette.html](https://raw.githack.com/MartynaMu/smartPep/main/vignettes/vignette.html).
 
 This is a package that derived from a necessity of functions to increase
 the speed of processing peptidomic data pipeline for personal usage in
