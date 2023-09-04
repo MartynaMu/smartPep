@@ -1,7 +1,5 @@
 # smartPep
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%253A%252F%252Fgithub.com%252FMartynaMu%252FsmartPep&label=Visitors&countColor=%252337d67a)
-
 Martyna Muszczek 01.09.2023
 
 ## Faster Peptidomic Data Processing and Analysis
