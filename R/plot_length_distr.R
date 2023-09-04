@@ -1,7 +1,7 @@
 plot_length_distr <- function(long_df) {
-  require("stringr")
   require("ggplot2")
-  dfLLog$AA.length <- str_length(long_df$Stripped.Sequence)
+  long_df$AA.length <- stringr::str_length(long_df$Stripped.Sequence)
+  theme_set(DEP::theme_DEP1())
   ggplot(long_df, aes(AA.length)) +
     geom_bar()+
     facet_wrap(~Sample)

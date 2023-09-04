@@ -1,5 +1,6 @@
 smartPep
 ================
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMartynaMu%2FsmartPep&label=Visitors&countColor=%2337d67a)
 Martyna Muszczek
 01.09.2023
 

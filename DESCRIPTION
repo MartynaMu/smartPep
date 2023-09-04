@@ -7,3 +7,5 @@ Maintainer: Martyna Muszczek <mamuszcz@gmail.com>
 License: None
 Encoding: UTF-8
 LazyData: true
+VignetteBuilder: knitr
+Suggests: knitr, rmarkdown
